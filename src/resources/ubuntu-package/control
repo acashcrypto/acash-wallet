@@ -1,0 +1,8 @@
+Package: acash-wallet
+Version: 2.0.3
+Section: misc
+Priority: low
+Architecture: all
+Description: ACASH Wallet
+Maintainer: admin@acashex.info
+Depends: default-jdk, acash

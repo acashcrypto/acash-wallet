@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=2.0.3
+Name=ACASH Wallet
+Comment=ACASH Desktop GUI Wallet (full node)
+GenericName=ACASH Wallet
+Keywords=ACASH;Crypto-currency;ACH;
+Exec=acash-wallet
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/usr/lib/acash-wallet/ACASH.png
+Categories=GNOME;Application;
+StartupNotify=true
