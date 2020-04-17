@@ -122,7 +122,7 @@ public class DashboardPanel
 
 		JPanel tempPanel = new JPanel(new FlowLayout(FlowLayout.LEFT, 5, 9));
 		JLabel logoLabel = new JLabel(new ImageIcon(
-			this.getClass().getClassLoader().getResource("images/acash_icon.png")));
+			this.getClass().getClassLoader().getResource("images/ach_icon.png")));
 		tempPanel.add(logoLabel);
 		// TODO: use relative size
 		JLabel zcLabel = new JLabel("ACASH Wallet ");
